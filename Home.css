@@ -1,0 +1,22 @@
+*{
+    margin:0px;
+    padding:0px;
+    
+}
+.nav-1{
+    background-color:#fef3bd;
+    width:100%;
+    height: 24.02px;
+}
+.nav-2{
+    width: 100%;
+    height: 70px;
+    background-color: #00b0b5;
+}
+h6{
+    color:rgba(128, 128, 128, 0.932);
+    font-family:proxima-nova;
+    font-size: 12px;
+    padding-left: 20px;
+    padding-top: 5px;
+}
